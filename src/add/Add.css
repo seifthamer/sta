@@ -1,0 +1,351 @@
+
+.bodyy{
+    position: absolute;
+width: 1667px;
+height: 1355px;
+left: -320px;
+top: 200px;
+}
+
+h3{
+
+    position: absolute;
+width: 423px;
+font-weight: 600;
+font-size: 39.81px;
+font-family: 'TT Firs Neue Trl';
+font-style: normal;
+color: #FFFFFF;
+top:50px;
+
+}
+.form-group{
+    position: absolute;
+width: 431px;
+height: 885px;
+left: 113px;
+top: 342px;
+
+background: linear-gradient(180deg, #FFA301 13.85%, #0F00E3 100%);
+border-radius: 34px;
+
+}
+
+.nom{
+    position: absolute;
+width: 155px;
+height: 58px;
+left: 40px;
+top: 205px;
+display: flex;
+/* justify-content: center; */
+align-items: center;
+background: rgba(255, 163, 1, 0.8);
+border-radius: 10px;
+}
+
+.inputs {
+    /* position: absolute; */
+width: 92px;
+height: 11px;
+left: 208px;
+top: 669px;
+background-color: transparent;
+font-family: 'TT Firs Neue Trl';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 18px;
+border: none;
+color: rgba(115, 94, 58, 1);
+
+
+}
+
+.avatar {
+    height: 31px;
+width: 25px;
+left: 3px;
+top: 0px;
+border-radius: 0px;
+/* padding: 5px; */
+margin: 13px 13px 13px 9px;
+
+}
+
+
+.pren{
+    position: absolute;
+    width: 155px;
+    height: 58px;
+    left: 210px;
+    top: 205px;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    background: rgba(255, 163, 1, 0.8);
+    border-radius: 10px;
+}
+
+.num{
+    position: absolute;
+width: 323px;
+height: 58px;
+left: 41px;
+top: 353px;
+display: flex;
+justify-content: center; 
+align-items: center;
+background: rgba(255, 163, 1, 0.8);
+border-radius: 10px;
+}
+.numeroo{
+ 
+background-color: transparent;
+font-family: 'TT Firs Neue Trl';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 18px;
+border: none;
+color: rgba(115, 94, 58, 1);
+}
+.phone{
+  position:absolute;
+
+right: 25px;
+top: 200px;
+bottom: 13px;
+height: 31px;
+width: 25px;
+left: 3px;
+top: 0px;
+border-radius: 0px;
+/* padding: 5px; */
+margin: 13px 13px 13px 9px;
+
+
+}
+
+
+.eml{
+    position: absolute;
+    width: 323px;
+    height: 58px;
+    left: 41px;
+    top: 280px;
+    display: flex;
+     justify-content: center; 
+    align-items: center;
+    background: rgba(255, 163, 1, 0.8);
+    border-radius: 10px;
+}
+
+.em{
+   
+border: none;
+background-color: transparent;
+font-family: 'TT Firs Neue Trl';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 21px;
+color: #735E3A;
+
+
+}
+
+.email{
+   
+    position:absolute;
+
+    right: 25px;
+    top: 200px;
+    bottom: 13px;
+    height: 31px;
+    width: 25px;
+    left: 3px;
+    top: 0px;
+    border-radius: 0px;
+    /* padding: 5px; */
+    margin: 13px 13px 13px 9px;
+
+}
+.codepd{
+    position: absolute;
+    width: 323px;
+    height: 58px;
+    left: 41px;
+    top: 426px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    background: rgba(255, 163, 1, 0.8);
+    border-radius: 10px;
+    
+}
+.codepa{
+    position: absolute;
+    width: 323px;
+    height: 58px;
+    left: 41px;
+    top: 498px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    background: rgba(255, 163, 1, 0.8);
+    border-radius: 10px;  
+}
+.code{
+    position:absolute;
+
+    right: 25px;
+    top: 200px;
+    bottom: 13px;
+    height: 31px;
+    width: 25px;
+    left: 3px;
+    top: 0px;
+    border-radius: 0px;
+    /* padding: 5px; */
+    margin: 13px 13px 13px 9px;
+   
+}
+
+.codep{
+    font-family: 'TT Firs Neue Trl';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 21px;
+    /* identical to box height */
+    border: none;
+    background-color: transparent;
+    color: #735E3A;
+    width: 240px;
+height: 21px;
+}
+
+
+
+.mybutton{
+    position: absolute;
+width: 227px;
+height: 53px;
+left: 94px;
+top: 802px;
+background: #FFA301;
+border-radius: 25px;
+border: #FFA301;
+font-family: 'TT Firs Neue Trl';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #0F00E3;
+}
+.action{
+    position: absolute;
+    width: 320px;
+    height: 42px;
+    left: 30px;
+    top: 579px;
+    
+    font-family: 'TT Firs Neue Trl';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 21px;
+    color: #FFFFFF;
+  
+
+
+}
+.act{
+    background: #FFFFFF;
+    border: 3px solid #FFA301;
+    border-radius: 10px;
+    
+box-sizing: border-box;
+
+
+
+}
+
+
+
+/* ----------------------------------------------------------------------------------------------------------- */
+
+
+.Footer{
+    height: 500px;
+    width: 100%;
+    background-color: blue;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  
+  .first_container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .header {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .images {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    width: 100%;
+  }
+  
+  .img {
+    flex: 1;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+  }
+  .header .header_1{
+    color: white;
+    font-size: 60px;
+    font-weight: 700;
+  }
+  .header .header_2{
+    color: white;
+    font-size: 50px;
+  }
+  span{
+    color: orange;
+  }
+  .second_container{
+    padding: 40px;
+  }
+  .second_container .header_1{
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+  }
+  .second_container .header_2{
+    color: orange;
+    font-size: 20px;
+    font-weight: 500;
+  }
+  .second_container p{
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+  }
